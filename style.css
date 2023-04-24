@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100&family=Nanum+Gothic&display=swap');
+
+.home {
+  display: flex;
+  height: 97vh;
+  background-image: url('./applications_energy--power_header/applications_energy--power_header.png');
+}
+.div1 {
+  width: 46vw;
+  height: 80vh;
+  margin-top: 9.5vh;
+  background-image: url('./assets/Retângulo\ 168.svg');
+}
+.div2 {
+  width: 60vw;
+  height: 80vh;
+  margin-top: 9.5vh;
+}
+.article1 {
+  width: 100%;
+  height: 100%;
+}
+.logo {
+  width: 80px;
+  height: 62px;
+  margin-top: 20px;
+  margin-left: 60px;
+  background-image: url('./assets/Güntner_logo_white/Güntner_logo_white.png');
+}
+.title {
+  width: 477px;
+  height: 103px;
+  color: #ffffff;
+  text-align: left;
+  margin-left: 60px;
+  margin-top: -22px;
+  /* margin-left: px; */
+  /* margin-top: 254px; */
+}
+.h1_title {
+  font-size: 33px;
+  font-family: 'Gothic A1', sans-serif;
+}
+.text {
+  height: 103px;
+  width: 477px;
+  margin-left: 60px;
+  margin-top: -22px;
+  color: #ffffff;
+
+  text-align: left;
+}
+.paragraph2 {
+  font-family: 'Gothic A1', 'sans-serif';
+}
+.subtitle {
+  width: 477px;
+  height: 103px;
+  margin-top: -22px;
+}
+.text2 {
+  color: #ffffff;
+  font-family: 'Gothic A1', 'sans-serif';
+  margin-left: 60px;
+  text-align: left;
+}
+.links {
+  margin-left: 60px;
+  text-align: left;
+  margin-top: -30px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 26px;
+}
+.iconDownload {
+  fill: #ffffff;
+  stroke: #ffffff;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.iconParagraph {
+  color: #ffffff;
+  margin-bottom: 12px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.box2 {
+  margin-right: 95px;
+  margin-left: 16vw;
+  margin-top: 20px;
+}
+.title2 {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Gothic A1', 'sans-serif';
+}
+.paragraph3 {
+  text-align: center;
+  color: #ffffff;
+}
+.form {
+  display: flex;
+  align-items: column;
+  justify-content: column;
+  height: 100%;
+  width: 50%;
+  text-align: center;
+}
+.inputForm {
+  margin-bottom: 11px;
+  width: 180%;
+  height: 38px;
+  border: none;
+  outline: none;
+  padding-left: 20px;
+}
+.areaText {
+  width: 180%;
+  height: 82px;
+  border: none;
+  outline: none;
+  padding-left: 20px;
+}
+.buttonSubmit {
+  height: 45px;
+  width: 191%;
+  margin-top: 8px;
+  background-color: #008ff4;
+  color: #ffffff;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+.iconeDuo {
+  color: #000000;
+  width: 30px;
+  height: 30px;
+  margin-top: 68px;
+  margin-left: 20px;
+}
